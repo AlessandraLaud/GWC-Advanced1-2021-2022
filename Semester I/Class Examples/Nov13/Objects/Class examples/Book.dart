@@ -3,15 +3,15 @@ class Book {
   String title;
   double price;
   String author;
-  int numbereOfPages;
+  int numberOfPages;
 
   // constructor
-  Book({this.title, this.author, this.numbereOfPages, this.price});
+  Book({this.title, this.author, this.numberOfPages, this.price});
 
   // methods
   void finalPrice() {
-    // sles tax rate is 6%
+    // sales tax rate is 6%
     var tax = (6 / 100) * (this.price);
-    print('\n tax: ${tax}');
+    print("\n6% sales tax: ${tax}");
   }
 }
