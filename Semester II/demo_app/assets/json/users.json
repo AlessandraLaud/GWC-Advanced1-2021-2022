@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "name": { "first": "Don", "last": "Smith"},
+            "email": "donSmith12@gmail.com"
+        },
+        {
+            "name": { "first": "Timothy", "last": "Cain"},
+            "email": "timothy@gmail.com"
+        },
+        {
+            "name": { "first": "Kathy", "last": "Barnes"},
+            "email": "timothy@gmail.com"
+        },
+        {
+            "name": { "first": "Joe", "last": "Garner"},
+            "email": "timothy@gmail.com"
+        },
+        {
+            "name": { "first": "Marta", "last": "Sherman"},
+            "email": "timothy@gmail.com"
+        },
+        {
+            "name": { "first": "Ralph", "last": "Patton"},
+            "email": "timothy@gmail.com"
+        }
+    ]
+}
