@@ -1,6 +1,6 @@
 # demo_app
 
-A simple Flutter project demo.
+A simple Flutter project demo that displays a list of user information.
 
 ## Getting Started
 
